@@ -1,5 +1,5 @@
 ### Software Engineer & Linux Gaming Enthusiast.
-- 🩹 Contributor to [SteamTinkerLaunch](http://github.com/frostworx/steamtinkerlaunch). 
+- 🩹 Maintainer of [SteamTinkerLaunch](http://github.com/frostworx/steamtinkerlaunch). 
 - 🐍 Python enjoyer.
 - 🎮 Linux gamer.
 - 🐧 Windows-free since 2018.
